@@ -2,3 +2,8 @@
 table,th, tr,td {
 	border: 1px solid black;
 }
+caption {
+            caption-side: top;
+            text-align: center;
+            font-weight: bold;
+        }
